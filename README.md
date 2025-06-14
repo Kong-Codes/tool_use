@@ -100,10 +100,3 @@ The `app.py` file demonstrates:
 - Use environment variables for all API keys
 - Keep your `.env` file in `.gitignore`
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
